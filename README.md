@@ -4,7 +4,7 @@
 Sou estudante de Ciência da Computação pela PUC Minas, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas, além de praticar programação em diversos paradigmas.
 </p>
 
-<h1>🔭 Projetos</h1>
+<h1 align="center">🔭 Projetos</h1>
 
 Sistema de Gerenciamento de Processos em C++
 Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
@@ -22,7 +22,7 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 
 ---
 
-## 🚀 Minhas Skills
+<h1 align="center">🚀 Minhas Skills </h1>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
