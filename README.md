@@ -1,8 +1,20 @@
 💻 Olá, meu nome é Felipe! 💻
+<p>
+Sou estudante de Ciência da Computação pela PUC Minas, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas, além de praticar programação em diversos paradigmas.
+</p>
 
-Faça uma breve apresentação sobre você e a sua stack.
+🔭 Projetos
+Sistema de Gerenciamento de Processos em C++
+Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+Biblioteca de Criptografia em C
+Implementação de algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com foco em modularidade e segurança de memória.
+
+Dashboard Web para Monitoramento de Segurança
+Desenvolvido em Angular, integra serviços REST em Java no backend para exibir métricas de intrusão e vulnerabilidades em tempo real.
+
+Aplicação SPA em Vue & React
+Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
