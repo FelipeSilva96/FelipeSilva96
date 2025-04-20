@@ -18,15 +18,6 @@ Desenvolvido em Angular, integra serviços REST em Java no backend para exibir m
 Aplicação SPA em Vue & React
 Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
 
-<h1 align="center">💬 Vamos conversar!</h1>
-<P align="center">
-Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn
-</P>
-<div align="center">
-   <a href = "mailto:felipepsilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/-1996-silva-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <h1 align="center">🚀 Minhas Skills </h1>
 
 <div align="center">
@@ -65,5 +56,14 @@ Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobr
     </td>
   </tr>
 </table>
+</div>
+
+<h1 align="center">💬 Vamos conversar!</h1>
+<P align="center">
+Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn
+</P>
+<div align="center">
+   <a href = "mailto:felipepsilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/-1996-silva-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
