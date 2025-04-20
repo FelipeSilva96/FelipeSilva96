@@ -1,9 +1,11 @@
-💻 Olá, meu nome é Felipe! 💻
+
+<h1 align="center"> 💻 Olá, meu nome é Felipe! 💻</h1>
 <p>
 Sou estudante de Ciência da Computação pela PUC Minas, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas, além de praticar programação em diversos paradigmas.
 </p>
 
-🔭 Projetos
+<h1>🔭 Projetos</h1>
+
 Sistema de Gerenciamento de Processos em C++
 Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
 
