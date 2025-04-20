@@ -20,7 +20,7 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 
 <h1 align="center">🚀 Minhas Skills </h1>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Felipe-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
 
   <img align="center" alt="Felipe-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg">
@@ -39,7 +39,8 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+  
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg">
 
   <img align="center" alt="Felipe-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg">
