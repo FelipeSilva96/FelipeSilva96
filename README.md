@@ -18,9 +18,11 @@ Desenvolvido em Angular, integra serviços REST em Java no backend para exibir m
 Aplicação SPA em Vue & React
 Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+<h1 align="center">💬 Vamos conversar!</h1>
+Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail em felipe.silva@exemplo.com ou via LinkedIn:
+linkedin.com/in/felipesilva
 
----
+
 
 <h1 align="center">🚀 Minhas Skills </h1>
 
@@ -37,8 +39,3 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
