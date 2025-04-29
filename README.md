@@ -60,29 +60,6 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 </div>
 
 
-<h1 align="center">⭐ GitHub Stats</h1>
-
-<div align="center">
-   <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=FelipeSilva96&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilva96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-</div>
-
 <h1 align="center">💬 Vamos conversar!</h1>
 <P align="center">
 Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn
