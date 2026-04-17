@@ -37,5 +37,5 @@ Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobr
 </p>
 <div align="center">
    <a href="mailto:felipepsilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/-1996-silva-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
+  <a href="[https://www.linkedin.com/in/-1996-silva-felipe/](https://www.linkedin.com/in/felipe-silva-177879397/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
 </div>
