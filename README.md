@@ -23,7 +23,7 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 - 🖥️ Linguagens de Programação:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)](https://skillicons.dev)
 
 <br>
 
