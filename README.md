@@ -27,11 +27,9 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
 
-<br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
 
 <br>
 
