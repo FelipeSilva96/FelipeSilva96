@@ -31,12 +31,18 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
 
-
-
+- 🎲 Banco de Dados:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+- 🛠️ Sistemas Operacionais e Ferramentas:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,git,vscode,maven,azure,postman)](https://skillicons.dev)
+
 </div>
+
 
 
 <h1 align="center">💬 Vamos conversar!</h1>
