@@ -18,7 +18,9 @@ Desenvolvido em Angular, integra serviços REST em Java no backend para exibir m
 Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
 
 <h1 align="center">🚀 Minhas Skills </h1>
+<div align="center">
 
+- 🖥️ Linguagens de Programação:
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py)](https://skillicons.dev)
@@ -34,6 +36,8 @@ Um comparador de preços que consome APIs públicas, com Vue.js para filtragem d
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
+</div>
+
 
 <h1 align="center">💬 Vamos conversar!</h1>
 <p align="center">
