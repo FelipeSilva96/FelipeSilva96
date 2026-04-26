@@ -1,39 +1,49 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, meu nome é Felipe! 
+<h1 align="center"> 💻 Olá, meu nome é Felipe! 💻</h1>
+<p>
+Sou estudante de Ciência da Computação pela PUC Minas, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas, além de praticar programação em diversos paradigmas.
+</p>
 
-- 🎓 Estudante de Ciência da Computação pela PUC Minas.
-- 💻 Apaixonado por desenvolvimento de software e cibersegurança.
-- 🔒 Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas.
-- 🧠 Pratico programação em diversos paradigmas, sempre buscando entender o funcionamento das coisas em baixo nível.
-- 📫 Contate-me no email: felipepsilva12@gmail.com
+<h1 align="center">🔭 Projetos</h1>
 
-## 🧑‍💻 Tech Skills
+**Sistema de Gerenciamento de Processos em C++**
+Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
 
-- 🖥️ Linguagens de Programação: 
+**Biblioteca de Criptografia em C**
+Implementação de algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com foco em modularidade e segurança de memória.
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py)](https://skillicons.dev)
+**Dashboard Web para Monitoramento de Segurança**
+Desenvolvido em Angular, integra serviços REST em Java no backend para exibir métricas de intrusão e vulnerabilidades em tempo real.
 
-- 🌐 Desenvolvimento Web:
+**Aplicação SPA em Vue & React**
+Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<h1 align="center">🚀 Minhas Skills </h1>
 
-- 📚 Frameworks e Bibliotecas: 
+<div align="center">
+  <img alt="Felipe-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg"><img alt="Felipe-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg"><img alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg"><img alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"><img alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+</div>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
+<br>
 
-- 🛠️ Sistemas Operacionais e Ferramentas: 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
+<br>
 
-## 📂 Projetos
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-- **Sistema de Gerenciamento de Processos em C++**: Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
-- **Biblioteca de Criptografia em C**: Implementação de algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com foco em modularidade e segurança de memória.
-- **Dashboard Web para Monitoramento de Segurança**: Desenvolvido em Angular, integra serviços REST em Java no backend para exibir métricas de intrusão e vulnerabilidades em tempo real.
-- **Aplicação SPA em Vue & React**: Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
+<br>
 
-## 🔗 Vamos conversar!
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
 
-Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn:
+<br>
 
-- [LinkedIn](https://www.linkedin.com/in/felipe-silva-177879397/)
-- [E-mail](mailto:felipepsilva12@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
+
+<h1 align="center">💬 Vamos conversar!</h1>
+<p align="center">
+Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn
+</p>
+<div align="center">
+   <a href="mailto:felipepsilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/felipe-silva-177879397/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
+</div>
