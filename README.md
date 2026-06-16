@@ -83,8 +83,10 @@ Some areas that I am especially interested in are:
 
 <h1 align="center"> 💬 Let's Connect! </h1>
 
+<p align="center">
 Feel free to open issues, ask questions or send suggestions about my projects.  
 You can also find me by email or on LinkedIn.
+</p>
 
 <p align="center">
   <a href="mailto:felipepsilva12@gmail.com">
