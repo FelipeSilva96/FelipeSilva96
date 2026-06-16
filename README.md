@@ -24,7 +24,7 @@ I enjoy learning new technologies, exploring different programming paradigms, im
 
 ---
 
-## 🚀 My Skills
+<h1 align="center"> 🚀 My Skills </h1>
 
 ### 🖥️ Programming Languages
 
@@ -47,7 +47,7 @@ I enjoy learning new technologies, exploring different programming paradigms, im
 ### 🛠️ Operating Systems and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,apache,azure,postman" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,azure,postman" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Some areas that I am especially interested in are:
 
 ---
 
-## 💬 Let's Connect!
+<h1 align="center"> 💬 Let's Connect! </h1>
 
 Feel free to open issues, ask questions or send suggestions about my projects.  
 You can also find me by email or on LinkedIn.
