@@ -1,54 +1,96 @@
-<h1 align="center"> 💻 Olá, meu nome é Felipe! 💻</h1>
-<p>
-Sou estudante de Ciência da Computação pela PUC Minas, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, dedico-me a aprofundar meus conhecimentos em segurança de redes e sistemas, além de praticar programação em diversos paradigmas.
-</p>
+<h1 align="center">💻 Hello, my name is Felipe! 💻</h1>
 
-<h1 align="center">🔭 Projetos</h1>
-
-**Sistema de Gerenciamento de Processos em C++**
-Um gerenciador de processos que simula escalonamento de tarefas e coleta de métricas de desempenho utilizando multithreading em C++.
-
-**Biblioteca de Criptografia em C**
-Implementação de algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com foco em modularidade e segurança de memória.
-
-**Dashboard Web para Monitoramento de Segurança**
-Desenvolvido em Angular, integra serviços REST em Java no backend para exibir métricas de intrusão e vulnerabilidades em tempo real.
-
-**Aplicação SPA em Vue & React**
-Um comparador de preços que consome APIs públicas, com Vue.js para filtragem dinâmica e React para visualização interativa de dados.
-
-<h1 align="center">🚀 Minhas Skills </h1>
-<div align="center">
-
-🖥️ Linguagens de Programação:
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)](https://skillicons.dev)
-
-🌐 Desenvolvimento Web:
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,angular,vue,bootstrap,laravel)](https://skillicons.dev)
-
-🎲 Banco de Dados:
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-🛠️ Sistemas Operacionais e Ferramentas:
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,git,vscode,maven,azure,postman)](https://skillicons.dev)
-
-</div>
-
-
-
-<h1 align="center">💬 Vamos conversar!</h1>
 <p align="center">
-Sinta-se à vontade para abrir issues, fazer perguntas ou enviar sugestões sobre meus projetos. Você pode me encontrar por e-mail ou via LinkedIn
+Computer Science student at PUC Minas, passionate about software development, operating systems, Linux, cybersecurity, algorithms, data structures and the intersection between computing and financial markets.
 </p>
-<div align="center">
-   <a href="mailto:felipepsilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/felipe-silva-177879397/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
-</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science student at **PUC Minas**, currently focused on strengthening my technical foundation in **full stack software development**, **algorithm analysis**, **data structures**, **operating systems** and **cybersecurity**.
+
+My main interest in software development is building complete, well-structured applications, understanding both the frontend and backend sides of a system. I enjoy studying how applications are designed, how data flows through different layers, how APIs are structured, how databases support real-world systems, and how clean architecture, maintainability and performance influence software quality.
+
+Besides application development, I have a strong interest in **operating systems**, especially **Linux-based environments**. I like understanding how systems work under the hood, including processes, memory management, filesystems, permissions, command-line tools, networking fundamentals and the general relationship between software and the operating system.
+
+Cybersecurity is another area that motivates me a lot. I am interested in understanding how systems can fail, how vulnerabilities appear, how secure software should be designed, and how defensive and offensive security concepts help developers build more reliable applications.
+
+At the same time, I am continuously improving my knowledge in **algorithms and data structures**, since I believe they are fundamental for solving problems efficiently and for developing better computational reasoning. I am especially interested in how algorithms can be applied to practical domains such as **financial markets**, **finance**, **data analysis**, **optimization** and **decision-support systems**.
+
+I also have an academic interest in **scientific research** and undergraduate research opportunities, particularly in areas that combine Computer Science with finance-related problems. Topics such as algorithmic analysis, computational finance, market behavior, financial data processing, simulations, optimization and intelligent systems are especially interesting to me.
+
+I enjoy learning new technologies, exploring different programming paradigms, improving my problem-solving skills and gradually building a solid foundation to work on more complex software systems.
+
+---
+
+## 🚀 My Skills
+
+### 🖥️ Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,angular,vue,bootstrap,laravel" />
+</p>
+
+### 🎲 Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🛠️ Operating Systems and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,apache,azure,postman" />
+</p>
+
+---
+
+## 📚 Current Focus
+
+I am currently improving my knowledge in:
+
+- Full stack software development;
+- Backend and frontend application architecture;
+- Algorithm analysis and data structures;
+- Linux and operating systems fundamentals;
+- Cybersecurity concepts and practices;
+- Software quality, maintainability and performance;
+- Computational applications in finance and financial markets.
+
+---
+
+## 🔎 Interests
+
+Some areas that I am especially interested in are:
+
+- Full stack development;
+- Linux and operating systems;
+- Cybersecurity;
+- Algorithms and data structures;
+- Financial markets and computational finance;
+- Scientific research and undergraduate research;
+- Data-driven systems;
+- Optimization and problem solving.
+
+---
+
+## 💬 Let's Connect!
+
+Feel free to open issues, ask questions or send suggestions about my projects.  
+You can also find me by email or on LinkedIn.
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
