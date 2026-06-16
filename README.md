@@ -6,7 +6,7 @@ Computer Science student at PUC Minas, passionate about software development, op
 
 ---
 
-<h1 align="center"> ## 👨‍💻 About Me </h1>
+<h1 align="center"> 👨‍💻 About Me </h1>
 
 I am a Computer Science student at **PUC Minas**, currently focused on strengthening my technical foundation in **full stack software development**, **algorithm analysis**, **data structures**, **operating systems** and **cybersecurity**.
 
