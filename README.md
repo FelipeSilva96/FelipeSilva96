@@ -87,10 +87,10 @@ Feel free to open issues, ask questions or send suggestions about my projects.
 You can also find me by email or on LinkedIn.
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:felipepsilva12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/felipe-silva-177879397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
